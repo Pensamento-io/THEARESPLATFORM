@@ -1,1 +1,1 @@
-# THEARESPLATFORM
+This repository and its contents are the sole intellectual property of Pensamento Inc. This is not meant for public use. Any infringements on this property will be met with the appropriate response, including but not limited to legal action. All Rights Reserved, Copyright © 2024 Pensamento Inc.
