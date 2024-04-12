@@ -1,1 +1,2 @@
-The ARES platform hosted by Refresh by Pensamento, LLC.
+The ARES platform hosted by Refresh by Pensamento LLC.
+Hola Bromigo
